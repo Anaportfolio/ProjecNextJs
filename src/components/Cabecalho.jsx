@@ -1,5 +1,7 @@
-export default function Cabecalho(){
+export default function Cabecalho(props){
+
+
     return(
-        <header>Fundamnetos de Next.js e React </header>
+        <header>{props.titulo}</header>
     )
 }
