@@ -1,6 +1,5 @@
 import Layout from "@/components/Layout";
 import { useRouter } from "next/router";
-import { useEffect } from "react";
 
 // Navegação Dinâmica -> colocar o nome do arquivo entre [ ], para a navegação dinâmica 
     // [nome_arquivo.jsx]
