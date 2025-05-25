@@ -13,6 +13,7 @@ export default function Inicio(){
            <Navegador destino='/jsx' texto='JSX' cor="crimson"></Navegador>
            <Navegador destino='/cliente/123' texto='Navegação Dinâmica' cor='#02695e'></Navegador>
            <Navegador destino='/estado' texto='Componente com estado' cor='pink'></Navegador>
+           <Navegador destino='/integracao_1' texto='Integração API#1' cor='yellow'></Navegador>
         </div>
     )
 }
